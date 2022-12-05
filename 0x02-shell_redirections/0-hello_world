@@ -1,2 +1,2 @@
 #!/bin/bash
-Ipr
+echo "hello, world"
